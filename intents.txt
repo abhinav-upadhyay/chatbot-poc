@@ -1,0 +1,46 @@
+how is the weather today,weather
+is it raining today in Florida,weather
+will it rain tomorrow,weather
+is it cloudy,weather,
+will it be hot tomorrow,weather
+how cold will be the weather today,weather
+how cold will be the weather today in Ney York,weather
+do I need to wear a jacket today,weather
+is there a storm coming,weather
+I need to book a flight to Paris,travel
+I am travelling to Berlin,travel
+I have to be in Paris tomorrow,travel
+I will be travelling to Paris this week,travel
+I guess I have to visit Home next month,travel
+I have to go to Delhi to meet the client,travel
+hi,greeting
+hello,greeting
+good morning,greeting
+good afternoon,greeting
+hey,greeting
+yo,greeting
+yo yo,greeting
+hey man,greeting
+hello there,greeting
+anyone here,greeting
+anyone around,greeting
+can you help me,greeting
+bye,goodbye
+goodbye,goodbye
+see you later,goodbye
+tata,goodbye
+gotta go,goodbye
+I will leave now,goodbye
+I am off now,goodbye
+bbl,goodbye
+bye bye,goodbye
+I am good, thanks!,greeting_response
+I am good,greeting_response
+I am well, thanks,greeting_response
+I am well,greeting_response
+I am good, how are you,greeting_response
+I am good, how are you doing,greeting_response
+I am well, how are you,greeting_response
+I am well, how are you doing,greeting_response
+
+

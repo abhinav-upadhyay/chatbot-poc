@@ -1,0 +1,21 @@
+i lost,sorry
+i lost the match,sorry
+i got robbed,sorry
+i am not feeling well,take_care
+my dog died,sorry
+my son is not well,take_care
+i got diagnosed with sugar,take_care
+i am not doing well,sorry
+my wife left me,sorry
+we lost the tournament,sorry
+i got beaten,sorry
+i broke my leg,sorry
+i fell from the chair,take_care
+my shirt got spoiled,sorry
+i have pain in my stomach,take_care
+i was in an accident,take_care
+i lost my job,sorry
+i missed my flight,sorry
+i missed the bus,sorry
+i missed my train,sorry
+i was late for my flight and missed it,sorry

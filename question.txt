@@ -1,0 +1,20 @@
+what is your name,name
+what do you call yourself,name
+what should i call you,name
+can i know your name,name
+how do i call you,name
+what do people call you,name
+do you know my name,users_name
+what is my name,users_name
+can you tell me my name,users_name
+where do you live,location
+what is your location,location
+which city do you live in,location
+are you a bot,bot
+you seem like a bot,bot
+are you married,marriage
+do you have a wife,marriage
+do you have a girlfriend,marriage
+do you have a partner,marriage
+where were you born,location
+which place do you live in,location
