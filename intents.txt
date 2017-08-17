@@ -2,17 +2,25 @@ how is the weather today,weather
 is it raining today in Florida,weather
 will it rain tomorrow,weather
 is it cloudy,weather,
+how cold will it be in Moscow next week,weather
 will it be hot tomorrow,weather
 how cold will be the weather today,weather
 how cold will be the weather today in Ney York,weather
 do I need to wear a jacket today,weather
 is there a storm coming,weather
-I need to book a flight to Paris,travel
-I am travelling to Berlin,travel
-I have to be in Paris tomorrow,travel
-I will be travelling to Paris this week,travel
-I guess I have to visit Home next month,travel
-I have to go to Delhi to meet the client,travel
+how does the sky look,weather
+do i need umbrella,weather
+do i need sunscreen,weather
+is it too hot to play outside,weather
+i need to book a flight to Paris,travel
+i am travelling to Berlin,travel
+i have to be in Paris tomorrow,travel
+i will be travelling to Paris this week,travel
+i guess I have to visit Home next month,travel
+i have to go to Delhi to meet the client,travel
+can you find trains for me,travel
+i need to pack my bags,travel
+i should pack my bag,travel
 hi,greeting
 hello,greeting
 good morning,greeting
@@ -34,13 +42,3 @@ I will leave now,goodbye
 I am off now,goodbye
 bbl,goodbye
 bye bye,goodbye
-I am good, thanks!,greeting_response
-I am good,greeting_response
-I am well, thanks,greeting_response
-I am well,greeting_response
-I am good, how are you,greeting_response
-I am good, how are you doing,greeting_response
-I am well, how are you,greeting_response
-I am well, how are you doing,greeting_response
-
-
